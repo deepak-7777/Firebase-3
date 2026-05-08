@@ -1,4 +1,5 @@
-📱 Firebase Phone OTP Verification Project
+📱 Firebase Phone OTP Verification
+
 📌 About the Project
 
 In this project, I learned how to implement Firebase Phone OTP Verification in an Android application.
